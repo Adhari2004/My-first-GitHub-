@@ -1,2 +1,1 @@
-# My-first-GitHub-
-Simple Code
+"# GetHub" 
